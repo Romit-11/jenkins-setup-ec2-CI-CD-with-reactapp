@@ -18,7 +18,7 @@ export default function Contact() {
         <h2 className="section-title">Let's Connect</h2>
         <p className="section-subtitle">
           Whether it's exploring technology, a business opportunity, or just saying hello —
-          don't hesitate to reach out! hello123
+          don't hesitate to reach out! hello1233
         </p>
 
         <div className="contact-inner">
