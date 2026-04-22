@@ -2,7 +2,7 @@ import React from 'react';
 
 const experiences = [
   {
-    company: 'Excellence Education at Chitkara University',
+    company: 'Excellence Education',
     role: 'Senior Consultant (DevOps) AWS – Contract',
     date: 'Jan 2025 – Present',
     description:
